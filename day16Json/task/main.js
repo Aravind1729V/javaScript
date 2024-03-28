@@ -10,7 +10,7 @@ window.fetch("https://fakestoreapi.com/products")
         // console.log(ele.description);
         // console.log(ele.catagory);
         // console.log(ele.image);
-        // console.log(ele.rating);
+        // console.log(ele.rating);  
         let demo=document.getElementById("demo")
         console.log(demo);
         let tr=`
